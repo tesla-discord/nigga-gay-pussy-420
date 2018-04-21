@@ -1,0 +1,13 @@
+
+git+https://github.com/Rapptz/discord.py
+environ
+lxml
+asyncio
+datetime
+requests
+cleverwrap
+utils
+aiohttp
+websockets
+BeautifulSoup4
+bs4
